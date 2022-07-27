@@ -1,7 +1,7 @@
 {
-  "name": "roam-matter",
+  "name": "roam-elicit",
   "version": "1.0.0",
-  "description": "The Matter Roam extension",
+  "description": "The Elicit Roam extension",
   "main": "./build/main.js",
   "scripts": {
     "prebuild": "npm install",
